@@ -2,11 +2,6 @@
 
 **AI-Powered Interview Simulation Web App**
 
-![Agent Hire Evaluators](screenshot.png)  
-*Replace `screenshot.png` with your actual screenshot*
-
----
-
 ## Table of Contents
 
 - [Overview](#overview)  
